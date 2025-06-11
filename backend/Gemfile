@@ -45,6 +45,7 @@ group :development, :test do
   gem 'rubocop', require: false
   
   gem 'byebug'
+  gem 'jwt'
 
   gem 'bcrypt', '~> 3.1.7'
 end
